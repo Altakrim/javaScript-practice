@@ -1,14 +1,25 @@
 
 // Variables: let, const, var ----
 
-let age = 22;  // Variable New and correct rules
-console.log('Age:', age);
+// let age = 22;  // Variable New and correct rules
+// console.log('Age:', age);
 
-const country = "Bangladesh"; // Variable Will never change
-console.log('Country:', country);
+// const country = "Bangladesh"; // Variable Will never change
+// console.log('Country:', country);
 
-var name = "Takrim"; // Variable Old rules
-console.log('Name:', name,);
+// var name = "Takrim"; // Variable Old rules
+// console.log('Name:', name,);
+
+
+//    Date: 02/08/2025  -- tasks
+  
+ 
+        let name = "Al Takrim Hossain";
+        let age = 23;
+        let Student = false;
+        let language = "English"
+         
+        console.log('Name:', name, 'Age:', age, 'Student:', Student, 'Language:', language);
 
 
 
